@@ -12,3 +12,6 @@ Inside the files:
 ```bash
 WEATHER_API_KEY=<Insert Key Here>
 ```
+
+## Contribuition
+Any further contributions are welcome!
